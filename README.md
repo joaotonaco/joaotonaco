@@ -9,8 +9,8 @@ Olá, eu me chamo **Gabriel**, tenho 15 anos, e venho cada vez mais me adentrand
     <img src="https://img.shields.io/badge/-NodeJS-000?logo=node.js&labelColor=white&color=white&logoColor=459e00"></img>
     <img src="https://img.shields.io/badge/-HTML-000?logo=html5&labelColor=white&color=white&logoColor=orange"></img>
     <img src="https://img.shields.io/badge/-CSS-000?logo=css3&labelColor=white&color=white&logoColor=blueviolet"></img>
-    <img src="https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&labelColor=white&color=white&logoColor=0071db"></img>
-    <img src="https://img.shields.io/badge/-MongoDB-000?logo=mondodb&labelColor=white&color=white&logoColor=027000"></img>
+    <img src="https://img.shields.io/badge/-Visual Studio%20Code-000?logo=visualstudiocode&labelColor=white&color=white&logoColor=0071db"></img>
+    <img src="https://img.shields.io/badge/-MongoDB-000?logo=mondodb&labelColor=white&color=white&logoColor=#027000"></img>
     <img src="https://img.shields.io/badge/-GitHub-000?logo=github&labelColor=white&color=white&logoColor=000"></img>
     <img src="https://img.shields.io/badge/-Git-000?logo=git&labelColor=white&color=white&logoColor=orange"></img>
 </p>
