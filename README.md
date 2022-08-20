@@ -13,6 +13,6 @@ Olá, eu me chamo **Gabriel**, tenho 15 anos, e venho cada vez mais me adentrand
 
 ** **
 ## 📊・Estatísticas do GitHub
-[![bluee-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
+[![bluee-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
 <br>
-[![bluee-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=bluee-js&layout=compact&locale=pt&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
+[![bluee-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=bluee-js&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
