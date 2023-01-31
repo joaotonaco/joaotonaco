@@ -18,9 +18,9 @@ Olá, eu me chamo **Gabriel**, tenho 15 anos, e venho cada vez mais me adentrand
 </p>
 
 ## 🌐・Conecte-se comigo!
-<p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/-Discord-000?logo=discord&labelColor=5865F2&color=5865F2&logoColor=white" href="https://discord.com/users/702529018410303640" />
-<p/>
+<a href="https://discord.com/users/702529018410303640">
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/-Discord-000?logo=discord&labelColor=5865F2&color=5865F2&logoColor=white" />
+<a/>
 
 ** **
 ## 📊・Estatísticas do GitHub
