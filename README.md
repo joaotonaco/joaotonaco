@@ -1,5 +1,5 @@
 ## 📜・Sobre mim
-Olá, eu me chamo **Gabriel**, tenho 15 anos, e venho cada vez mais me adentrando o mundo da programação, almejo trabalhar com isso futuramente. Atualmente estou focado em projetos relacionados ao Discord, porém pretendo iniciar construções de sites e outras aplicações.
+Olá, eu me chamo **João Gabriel**, tenho 15 anos, e venho cada vez mais me adentrando o mundo da programação, almejo trabalhar com isso futuramente. Atualmente estou focado em projetos relacionados ao Discord, porém pretendo iniciar construções de sites e outras aplicações.
 
 ** **
 ## 👨‍💻・Linguagens & Ferramentas
