@@ -1,7 +1,7 @@
 ## 👋 About me
-Hello there! I'm João Gabriel, a 16-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to Discord and full-stack web development.
+Hello there! I'm **João Gabriel**, a 16-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to Discord and full-stack web development.
 
-** **
+
 ## 💻 Langs & Tools
 <p>
     &nbsp
@@ -21,8 +21,8 @@ Hello there! I'm João Gabriel, a 16-year-old Brazilian with a growing passion f
 ## 🌐 Connect with me!
 <img src="https://img.shields.io/badge/Discord-@blue.y-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
-** **
-## 📊・Statistics
+
+## 📊 Statistics
 [![joaotonaco GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotonaco&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
 <br />
 [![joaotonaco Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotonaco&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
