@@ -1,29 +1,30 @@
-## 📜・Sobre mim
-Olá, eu me chamo **João Gabriel**, tenho 15 anos, e venho cada vez mais me adentrando o mundo da programação, almejo trabalhar com isso futuramente. Atualmente estou focado em projetos relacionados ao Discord e desenvolvimento Web Full-Stack.
+## 👋 About me
+Hello there! I'm João Gabriel, a 16-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to Discord and full-stack web development.
 
 ** **
-## 👨‍💻・Linguagens & Ferramentas
+## 💻 Langs & Tools
 <p>
     &nbsp
-    <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&labelColor=yellow&color=yellow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-000?logo=typescript&labelColor=blue&color=blue&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NodeJS-000?logo=node.js&labelColor=459e00&color=459e00&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML-000?logo=html5&labelColor=orange&color=orange&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS-000?logo=css3&labelColor=blueviolet&color=blueviolet&logoColor=white" />
-    <br>&nbsp &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Visual Studio%20Code-000?logo=visualstudiocode&labelColor=white&color=white&logoColor=0071db" />
-    <img src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb&labelColor=white&color=white&logoColor=027000" />
-    <img src="https://img.shields.io/badge/-Git-000?logo=git&labelColor=white&color=white&logoColor=orange" />
-    <img src="https://img.shields.io/badge/-GitHub-000?logo=github&labelColor=white&color=white&logoColor=000" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <br /> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-## 🌐・Conecte-se comigo!
-<a href="https://discord.com/users/702529018410303640">
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/-Discord-000?logo=discord&labelColor=5865F2&color=5865F2&logoColor=white" />
-<a/>
+## 🌐 Connect with me!
+<img src="https://img.shields.io/badge/Discord-@blue.y-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 ** **
-## 📊・Estatísticas do GitHub
-[![bluee-js GitHub stats](https://github-readme-stats.vercel.app/api?username=bluee-js&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
+## 📊・Statistics
+[![joaotonaco GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotonaco&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
 <br />
-[![bluee-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=bluee-js&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/bluee-js)
+[![joaotonaco Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotonaco&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
+<br />
+[![joaotonaco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaotonaco&theme=github_dark&hide_border=true&show_icons=true&layout=compact)](https://github.com/joaotonaco)
