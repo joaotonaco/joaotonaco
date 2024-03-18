@@ -28,5 +28,3 @@ Hello there! I'm **João Gabriel**, a 16-year-old Brazilian with a growing passi
 [![joaotonaco GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotonaco&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
 <br />
 [![joaotonaco Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotonaco&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
-<br />
-[![joaotonaco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaotonaco&theme=github_dark&hide_border=true&show_icons=true&layout=compact)](https://github.com/joaotonaco)
