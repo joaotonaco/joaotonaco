@@ -1,7 +1,7 @@
 ## 👋 About me
 Hello there! I'm **João Gabriel**, a 17-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to full-stack web development.
 
-*front-end developer at [Square Cloud](https://squarecloud.app/) & [Owlivery](https://owlivery.com/)*
+*front-end developer & package maintainer at [Square Cloud](https://squarecloud.app/)*
 
 
 ## 💻 Langs & Tools
