@@ -1,5 +1,5 @@
 ## 👋 About me
-Hello there! I'm **João Gabriel**, a 16-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to Discord and full-stack web development.
+Hello there! I'm **João Gabriel**, a 17-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to full-stack web development.
 
 *front-end developer at [Square Cloud](https://squarecloud.app/) & [Owlivery](https://owlivery.com/)*
 
@@ -21,7 +21,10 @@ Hello there! I'm **João Gabriel**, a 16-year-old Brazilian with a growing passi
 </p>
 
 ## 🌐 Connect with me!
-<img src="https://img.shields.io/badge/Discord-@blue.y-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<p>
+    <a href="https://discord.com/users/702529018410303640"><img src="https://img.shields.io/badge/-@blue.y-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://x.com/jaootonaco"><img src="https://img.shields.io/badge/-@jaootonaco-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 
 ## 📊 Statistics
